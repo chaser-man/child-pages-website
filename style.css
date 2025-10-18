@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    font-family: 'Gill Sans';
+    color: navy;
+}
+.test{
+    display: inline-block;
+    width: 20vw;
+    height: 10vw;
+    border: 3px solid blue;
+    border-radius: 10px;
+    background-color: lightskyblue;
+    transition: all 0.15s ease;
+}
+.test:hover{
+    width: 22vw;
+    height: 11vw;
+}
+
+#home-img{
+    width: 100vw;
+}
+#finance-tracker-screenshot{
+    width: 75vw;
+}
